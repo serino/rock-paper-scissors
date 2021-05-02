@@ -1,0 +1,1 @@
+This is an app that allows the user to compete against the computer in a game of rock, paper, scissors.

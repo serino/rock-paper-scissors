@@ -1,0 +1,12 @@
+#images, 
+#choices, {
+  display: inline-block;
+}
+
+#countdownParagraph {
+  font-size: 25px;
+}
+
+#playAgainButton {
+  display: none;
+}
